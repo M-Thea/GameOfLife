@@ -6,7 +6,7 @@ import { RenderNormalBoard } from "./Components/RenderNormalBoard.js";
 import { RenderCustomBoard } from "./Components/RenderCustomBoard.js";
 import { ControlBar } from "./Components/ControlBar.js";
 import { TitleBar } from "./Components/TitleBar.js"
-
+// :)
 function App() {
   const [gameType, setGameType] = useState(true);
   const [grid, setGrid] = useState([]);
